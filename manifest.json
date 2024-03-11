@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "upstore",
+    "description": "Upstore shield extension",
+    "version": "1.0",
+    "action": {
+      "default_title": "Up Store Shield",
+      "default_popup": "index.html",
+      "default_icon": "logo.png"
+    },
+    "icons": {
+        "16": "images/icon-16.png",
+        "32": "images/icon-32.png"
+      },
+    "content_scripts": [
+        {
+          "js": ["dist/content.bundle.js"],
+          "matches": ["<all_urls>"]
+        }
+      ]
+  }
