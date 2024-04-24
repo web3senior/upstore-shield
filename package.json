@@ -14,13 +14,13 @@
   "devDependencies": {
     "@types/node": "^20.11.25",
     "css-loader": "^6.10.0",
-    "sass": "^1.70.0",
+    "sass": "^1.75.0",
     "sass-loader": "^14.1.0",
     "style-loader": "^3.3.4",
     "webpack": "^5.90.1",
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "web3": "^4.6.0"
+    "web3": "^4.8.0"
   }
 }
