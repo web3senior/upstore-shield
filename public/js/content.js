@@ -9,7 +9,7 @@ class UPStore {
   constructor() {
     this.hasMeta = false
     this.host = window.location.origin
-    this.web3 = new Web3(`https://rpc.lukso.gateway.fm`)
+    this.web3 = new Web3(`https://42.rpc.thirdweb.com`)
   }
 
   /**

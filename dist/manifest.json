@@ -15,7 +15,7 @@
       },
     "content_scripts": [
         {
-          "js": ["dist/content.bundle.js"],
+          "js": ["content.bundle.js"],
           "matches": ["<all_urls>"]
         }
       ]

@@ -1,0 +1,2 @@
+# Upstore Shield
+This is a valuable feature that can help protect users from scams. Verifying DApps through APP ID and retrieving information from the blockchain adds an extra layer of security for users.
