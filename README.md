@@ -25,3 +25,11 @@ Implements privacy-enhancing technologies to protect your browsing data and digi
 - Peace of Mind: Enjoy a worry-free browsing experience, knowing that you're protected.
 - Empowered Users: Take control of your online security and privacy with a user-friendly tool.
 - Community-Driven: Benefit from the collective wisdom and expertise of the UpStore community.
+
+# Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+# License
+Distributed under the MIT License.
